@@ -50,7 +50,7 @@
 - 🤖 **Advanced Machine Learning & Deep Learning Models**
 - ☁️ **Cloud Data Warehousing & Big Data Pipelines**
 - 📈 **Advanced DAX & Predictive Financial Modeling**
-- 💡 **Data Structures & Algorithms in C++**
+- 💡 **Data Structures & Algorithms in Python
 
 ---
 
